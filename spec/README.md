@@ -133,3 +133,5 @@ __Version 11__
 
 *Copyright (c) Microsoft. All Rights Reserved. Licensed under the Apache License, Version 2.0.  See [License.txt](https://github.com/dotnet/roslyn/blob/master/License.txt) for license information.*
  
+' Creates an IEnumerable object that goes from 1 to 10.
+Dim range = 1 To 10
