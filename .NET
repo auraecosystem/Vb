@@ -1,0 +1,5 @@
+dotnet nuget add source <PACKAGE_SOURCE_PATH> [--name <SOURCE_NAME>] [--username <USER>]
+    [--password <PASSWORD>] [--store-password-in-clear-text]
+    [--valid-authentication-types <TYPES>] [--configfile <FILE>] [--allow-insecure-connections]
+
+dotnet nuget add source -h|--help
